@@ -1,3 +1,5 @@
+[🇫🇷 Français](README.fr.md)
+
 # Data Wrangling and Validation for Open Data
 
 The term _Open Data_ is generally understood to be data that are made available to the public free of charge, without registration or restrictive licenses, for any purpose whatsoever (including commercial purposes), in electronic, machine-readable formats that ensure data are easy to find, download and use. 

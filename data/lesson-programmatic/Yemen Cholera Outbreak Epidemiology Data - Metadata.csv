@@ -1,0 +1,12 @@
+Column,Description
+Date,Date when the figures were reported.
+Governorate,The Governorate name as reported in the WHO epidemiology bulletin.
+Cases,Number of cases recorded in the governorate since 27 April 2017.
+Deaths,Number of deaths recorded in the governorate since 27 April 2017.
+CFR (%),The case fatality rate in governorate since 27 April 2017.
+Attack Rate (per 1000),"The attack rate per 1,000 of the population in the governorate since 27 April 2017."
+COD Gov English,The English name for the governorate according to the Inter Agency Standing Committee (IASC) Common Operation Datasets (CODs) for Yemen.
+COD Gov Arabic,The Arabic name for the governorate according to the Inter Agency Standing Committee (IASC) Common Operation Datasets (CODs) for Yemen.
+COD Gov Pcode,The PCODE name for the governorate according to the Inter Agency Standing Committee (IASC) Common Operation Datasets (CODs) for Yemen.
+Bulletin Type,"The type of bulletin from which the data was extracted. Bulletin types include Epidemiology bulletin, Weekly epidemiology bulletin, Daily epidemiology update."
+Bulletin URL,The URL of the bulletin from which the data was extracted.

@@ -40,7 +40,7 @@ _Objectifs d'apprentissage_ :
 
 _Projet_ :
 
-En utilisant la feuille de calcul créée dans la leçon 1, développer un schéma JSON, et valider les données en utilisant ce schéma sur [CSV Lint](https://csvlint.io/). Ensuite, importez [Frictionless Data](https://github.com/frictionlessdata/tableschema-py) et effectuez la même tâche en Python.
+En utilisant la feuille de calcul créée dans la leçon 1, développer un schéma JSON, et valider les données en utilisant ce schéma sur [CSV Lint](https://csvlint.io/). Ensuite, importez [whyqd](https://whyqd.readthedocs.io/) et effectuez la même tâche en Python.
 
 ## Leçon 3 : Anonymisation des données personnelles avant la publication
 

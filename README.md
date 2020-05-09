@@ -40,7 +40,7 @@ _Learning outcomes_:
 
 _Project_:
 
-Using the machine-readable spreadsheet created in Lesson 1, develop a JSON schema, and validate the data using this schema on [CSV Lint](https://csvlint.io/). Then import [Frictionless Data](https://github.com/frictionlessdata/tableschema-py) and perform the same task in Python.
+Using the machine-readable spreadsheet created in Lesson 1, develop a JSON schema, and validate the data using this schema on [CSV Lint](https://csvlint.io/). Then import [whyqd](https://whyqd.readthedocs.io/) and perform the same task in Python.
 
 ## Lesson 3: Anonymising personal data prior to publication
 

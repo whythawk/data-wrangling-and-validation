@@ -47,7 +47,7 @@ En utilisant la feuille de calcul créée dans la leçon 1, développer un sché
 _Objectifs d'apprentissage_ :
 
 - Reconnaître les problèmes de respect de la vie privée et de la confidentialité lors du stockage des données et de la sécurité des données personnelles.
-- Reconnaître les responsabilités et les mécanismes de sécurisation des données stockées (ata-at-rest) ou en transit (date-in-motion).
+- Reconnaître les responsabilités et les mécanismes de sécurisation des données stockées (data-at-rest) ou en transit (date-in-motion).
 - Utiliser des méthodes d'anonymisation des données, y compris le floutage géospatiale, la suppression des adresses et des noms, et l'obscurcissement des champs.
 - Étudier et appliquer des techniques d'agrégation appropriées pour anonymiser les données personnelles qui ne peuvent pas être enlevées des fichiers.
 

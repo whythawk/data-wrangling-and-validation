@@ -65,7 +65,7 @@ As a topical subject, a general discussion of likely data sources for release, a
 
 My name is [Gavin Chait](https://gavinchait.com), and I am an independent data scientist specialising in economic development and data curation. I spent more than a decade in economic and development initiatives in South Africa. I was the commercial lead of open data projects at the Open Knowledge Foundation, leading the open source CKAN development team, and led the implementation of numerous open data technical and research projects around the world. Recently, I have developed [Sqwyre.com](https://sqwyre.com), an initiative to develop a comprehensive business intelligence search engine for entrepreneurs. Data are based on open data and Freedom of Information requests.
 
-I've worked with [SBC4D](http://www.sbc4d.com) since 2016 on a range of projects spanning from Ghana to Morocco, Tunisia and Ethiopia, to Tanzania and Mauritius.
+I've worked with [SBC4D](http://www.sbc4d.com) since 2016 on a range of projects spanning from Ghana to Morocco, Tunisia and Ethiopia, to Tanzania and Mauritius. This syllabus was developed for the [Des Chiffres et des Jeunes](https://www.dcdj.ci/) project in Cote d'Ivoire.
 
 I have extensive experience in leading research projects, implementing open source software initiatives, and developing and leading seminars and workshops. I have taught for 25 years, including for undergraduates, adult education, and technical and analytical teaching at all levels.
 

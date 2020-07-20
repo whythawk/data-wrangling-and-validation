@@ -67,7 +67,7 @@ Je m'appelle [Gavin Chait](https://gavinchait.com), et je suis un scientifique i
 
 J'ai une grande expérience dans la direction de projets de recherche, la mise en œuvre d'initiatives de logiciels libres, et l'élaboration et l'animation de séminaires et d'ateliers. J'ai enseigné pendant 25 ans, notamment pour les étudiants de premier cycle, la formation des adultes et l'enseignement technique et analytique à tous les niveaux.
 
-Je travaille depuis 2016 avec [SBC4D](http://www.sbc4d.com) sur de nombreux projets de formations ou de déploiements de portail open data dans divers pays comme le Ghana, le Maroc, la Tunisie, l'Ile Maurice ou la Tanzanie.
+Je travaille depuis 2016 avec [SBC4D](http://www.sbc4d.com) sur de nombreux projets de formations ou de déploiements de portail open data dans divers pays comme le Ghana, le Maroc, la Tunisie, l'Ile Maurice ou la Tanzanie. Ce syllabus a été développé pour le projet [Des Chiffres et des Jeunes](https://www.dcdj.ci/) en Côte d'Ivoire.
 
 ## Licences et diffusion
 

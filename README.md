@@ -2,6 +2,8 @@
 
 # Data Wrangling and Validation for Open Data
 
+[![DOI](https://zenodo.org/badge/253458856.svg)](https://zenodo.org/badge/latestdoi/253458856)
+
 The term _Open Data_ is generally understood to be data that are made available to the public free of charge, without registration or restrictive licenses, for any purpose whatsoever (including commercial purposes), in electronic, machine-readable formats that ensure data are easy to find, download and use. 
  
 Open data initiatives by public institutions, such as governments and intergovernmental organisations, recognise that such data is produced with public funds and so, with few exceptions, should be treated as public goods.

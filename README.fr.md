@@ -2,6 +2,8 @@
 
 # Préparation (data wrangling) et validation des données ouvertes
 
+[![DOI](https://zenodo.org/badge/253458856.svg)](https://zenodo.org/badge/latestdoi/253458856)
+
 L'expression "données ouvertes" s'entend généralement des données qui sont mises à la disposition du public gratuitement, accesible sans authentification ni licence restrictive, à quelque fin que ce soit (y compris à des fins commerciales), dans des formats électroniques exploitables par des machines (machine-readable) qui garantissent que les données sont faciles à trouver, à télécharger et à utiliser. 
  
 Les initiatives en matière de données ouvertes prises par les institutions publiques ou privés, telles que les gouvernements et les organisations intergouvernementales reconnaissent que ces données sont produites avec des fonds publics et doivent donc, à quelques exceptions près, être traitées comme des biens publics.

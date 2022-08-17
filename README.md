@@ -15,7 +15,7 @@ Data reuse, both by data experts and the public at large, is key to creating new
 
 The purpose of this syllabus in _Data Wrangling and Validation for Open Data_ is to guide learners to confidence in delivering technically open data: well-structured, machine-readable data, validated to a defined and standard metadata schema.
 
-## Lesson 1: Data wrangling messy data
+## Lessons 1 & 2: Data wrangling messy data
 
 _Learning outcomes_:
 
@@ -28,9 +28,9 @@ _Learning outcomes_:
 
 _Project_:
 
-Each participant will be assigned a spreadsheet from [training data](https://drive.google.com/open?id=0B8eZRkdFGaEHfnlwU25vdVRUOFNOdnNfWnMwb3IwYXJ3QU9BeTU0ZmlTNlpaRmZFZE5iM28) and expected to restructure it both in Excel and using Python/Whyqd.
+Each participant will be assigned a spreadsheet from [training data](https://drive.google.com/open?id=0B8eZRkdFGaEHfnlwU25vdVRUOFNOdnNfWnMwb3IwYXJ3QU9BeTU0ZmlTNlpaRmZFZE5iM28) and expected to restructure it using Python/Whyqd.
 
-## Lesson 2: Validating restructured data against a schema
+## Lesson 3: Validating restructured data against a schema
 
 _Learning outcomes_:
 
@@ -44,7 +44,7 @@ _Project_:
 
 Using the machine-readable spreadsheet created in Lesson 1, develop a JSON schema, and validate the data using this schema on [CSV Lint](https://csvlint.io/). Then import [whyqd](https://whyqd.readthedocs.io/) and perform the same task in Python.
 
-## Lesson 3: Anonymising personal data prior to publication
+## Lesson 4: Anonymising personal data prior to publication
 
 _Learning outcomes_:
 
@@ -57,17 +57,25 @@ _Project_:
 
 Use a manufactured sample data file containing personal information and redact these data to prevent de-anonymisation.
 
-## Project: COVID-19 data preparation for release
+## Lesson 5: Investigate and transform messy data into appropriate charts for presentation
 
-As a topical subject, a general discussion of likely data sources for release, and wrangling. We may need manufactured patient records for aggregation, wrangling and release.
+_Learning outcomes_:
+
+- Investigate and manipulate data to learn its metadata, shape and robustness.
+- Employ data wrangling methods to transform messy source data for use in analysis and presentation.
+- Identify an appropriate chart and present data to illustrate its core characteristics.
+
+_Project_:
+
+Use population series data on [Crude Birth Rate](https://data.worldbank.org/indicator/SP.DYN.CBRT.IN) to transform source data for appropriate presentation.
 
 ---
 
 ## Whois
 
-My name is [Gavin Chait](https://gavinchait.com), and I am an independent data scientist specialising in economic development and data curation. I spent more than a decade in economic and development initiatives in South Africa. I was the commercial lead of open data projects at the Open Knowledge Foundation, leading the open source CKAN development team, and led the implementation of numerous open data technical and research projects around the world. Recently, I have developed [Sqwyre.com](https://sqwyre.com), an initiative to develop a comprehensive business intelligence search engine for entrepreneurs. Data are based on open data and Freedom of Information requests.
+My name is [Gavin Chait](https://gavinchait.com), and I am an independent data scientist specialising in economic development and data curation. I spent more than a decade in economic and development initiatives in South Africa. I was the commercial lead of open data projects at the Open Knowledge Foundation, leading the open source CKAN development team, and led the implementation of numerous open data technical and research projects around the world. Recently, I have developed [openLocal.uk](https://openlocal.uk), an initiative to develop a comprehensive business intelligence search engine for entrepreneurs. Data are based on open data and Freedom of Information requests.
 
-I've worked with [SBC4D](http://www.sbc4d.com) since 2016 on a range of projects spanning from Ghana to Morocco, Tunisia and Ethiopia, to Tanzania and Mauritius. This syllabus was developed for the [Des Chiffres et des Jeunes](https://www.dcdj.ci/) project in Cote d'Ivoire.
+I've worked with [SBC4D](http://www.sbc4d.com) since 2016 on a range of projects spanning from Ghana to Morocco, Tunisia and Ethiopia, to Tanzania and Mauritius. This syllabus was originally developed, and translated into French, for the [Des Chiffres et des Jeunes](https://www.dcdj.ci/) project in Cote d'Ivoire.
 
 I have extensive experience in leading research projects, implementing open source software initiatives, and developing and leading seminars and workshops. I have taught for 25 years, including for undergraduates, adult education, and technical and analytical teaching at all levels.
 

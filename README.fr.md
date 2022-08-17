@@ -15,7 +15,7 @@ La réutilisation des données, tant par les experts en données que par le gran
 
 L'objectif de ce programme d'études dans _Préparation et validation de données ouvertes_ est de guider les participants vers la confiance dans la fourniture de données techniquement ouvertes : des données bien structurées, exploitable par des machines, validées selon un schéma de métadonnées défini et standard.
 
-## Leçon 1 : Préparation de données - données désordonnées
+## Leçons 1 & 2 : Préparation de données - données désordonnées
 
 _Objectifs d'apprentissage_ :
 
@@ -28,9 +28,9 @@ _Objectifs d'apprentissage_ :
 
 _Projet_ :
 
-Chaque participant se verra attribuer une feuille de calcul de [données de formation](https://drive.google.com/open?id=0B8eZRkdFGaEHfnlwU25vdVRUOFNOdnNfWnMwb3IwYXJ3QU9BeTU0ZmlTNlpaRmZFZE5iM28) et devra la restructurer à la fois dans Excel et en utilisant Python/Whyqd.
+Chaque participant se verra attribuer une feuille de calcul de [données de formation](https://drive.google.com/open?id=0B8eZRkdFGaEHfnlwU25vdVRUOFNOdnNfWnMwb3IwYXJ3QU9BeTU0ZmlTNlpaRmZFZE5iM28) et devra la restructurer en utilisant Python/Whyqd.
 
-## Leçon 2 : Validation des données restructurées par rapport à un schéma
+## Leçon 3 : Validation des données restructurées par rapport à un schéma
 
 _Objectifs d'apprentissage_ :
 
@@ -44,7 +44,7 @@ _Projet_ :
 
 En utilisant la feuille de calcul créée dans la leçon 1, développer un schéma JSON, et valider les données en utilisant ce schéma sur [CSV Lint](https://csvlint.io/). Ensuite, importez [whyqd](https://whyqd.readthedocs.io/) et effectuez la même tâche en Python.
 
-## Leçon 3 : Anonymisation des données personnelles avant la publication
+## Leçon 4 : Anonymisation des données personnelles avant la publication
 
 _Objectifs d'apprentissage_ :
 
@@ -57,15 +57,11 @@ _Projet_ :
 
 Utiliser un échantillon de fichier de données fabriqué contenant des informations personnelles et expurger ces données pour éviter la désanonymisation.
 
-## Projet : Préparation des données COVID-19 en vue de leur publication
-
-Comme sujet d'actualité, une discussion générale sur les sources de données probables pour la diffusion, et les préparations. Nous pourrions avoir besoin de dossiers de patients fabriqués pour l'agrégation, les préparations et la diffusion.
-
 ---
 
 ## Le Formateur
 
-Je m'appelle [Gavin Chait](https://gavinchait.com), et je suis un scientifique indépendant spécialisé dans le développement économique et la conservation des données. J'ai passé plus de dix ans dans des initiatives de développement économique et de développement en Afrique du Sud. J'ai été le responsable commercial de projets de données ouvertes à l'Open Knowledge Foundation, dirigeant l'équipe de développement du logiciel open source CKAN, et j'ai dirigé la mise en œuvre de nombreux projets techniques et de recherche de données ouvertes dans le monde entier. Récemment, j'ai développé [Sqwyre.com](https://sqwyre.com), une initiative pour développer un moteur de recherche complet d'intelligence économique pour les entrepreneurs. Les données sont basées sur des données ouvertes et des demandes de liberté d'information.
+Je m'appelle [Gavin Chait](https://gavinchait.com), et je suis un scientifique indépendant spécialisé dans le développement économique et la conservation des données. J'ai passé plus de dix ans dans des initiatives de développement économique et de développement en Afrique du Sud. J'ai été le responsable commercial de projets de données ouvertes à l'Open Knowledge Foundation, dirigeant l'équipe de développement du logiciel open source CKAN, et j'ai dirigé la mise en œuvre de nombreux projets techniques et de recherche de données ouvertes dans le monde entier. Récemment, j'ai développé [openLocal.uk](https://openlocal.uk), une initiative pour développer un moteur de recherche complet d'intelligence économique pour les entrepreneurs. Les données sont basées sur des données ouvertes et des demandes de liberté d'information.
 
 J'ai une grande expérience dans la direction de projets de recherche, la mise en œuvre d'initiatives de logiciels libres, et l'élaboration et l'animation de séminaires et d'ateliers. J'ai enseigné pendant 25 ans, notamment pour les étudiants de premier cycle, la formation des adultes et l'enseignement technique et analytique à tous les niveaux.
 
